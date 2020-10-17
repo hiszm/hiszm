@@ -1,5 +1,5 @@
 ### Hi there 👋
-![hiszm's github stats](https://github-readme-stats.vercel.app/api?username=hiszm&count_private=true)
+![hiszm's github stats](https://github-readme-stats.vercel.app/api?username=hiszm&count_private=true)<img src="https://images.cnblogs.com/cnblogs_com/hiszm/1694088/o_200904030246qrcode_for_gh_24508b63c547_344.jpg" />
 
 <!--
 **hiszm/hiszm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
