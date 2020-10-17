@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![hiszm's github stats](https://github-readme-stats.vercel.app/api?username=hiszm&count_private=true)
-<img src="https://images.cnblogs.com/cnblogs_com/hiszm/1694088/o_200904030246qrcode_for_gh_24508b63c547_344.jpg" alt="不洗澡的鲸鱼">
+<img src="https://img2020.cnblogs.com/blog/1170988/202010/1170988-20201017185032785-1510387627.png" alt="不洗澡的鲸鱼">
 
 <!--
 **hiszm/hiszm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
