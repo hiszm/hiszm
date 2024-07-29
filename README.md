@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 ![ ](https://github-readme-stats.vercel.app/api?username=hiszm&count_private=true)
-<img src="https://s21.ax1x.com/2024/07/19/pkTJZVK.jpg" width=205px; alt="孙中明">
+<img src="https://github.com/user-attachments/assets/af4f0514-23cc-4f08-863f-9518b34ea90b" width=205px; alt="孙中明">
+
 
 <!--
 **hiszm/hiszm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
