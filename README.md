@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 ![ ](https://github-readme-stats.vercel.app/api?username=hiszm&count_private=true)
-<img src="https://github.com/user-attachments/assets/af4f0514-23cc-4f08-863f-9518b34ea90b" width=205px; alt="孙中明">
+<img src="https://github.com/user-attachments/assets/37fc762f-3174-4f4b-b8f4-4df24539901c" width=205px; alt="大数据精读周刊">
+
 
 
 <!--
